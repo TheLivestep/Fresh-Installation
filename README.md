@@ -10,7 +10,7 @@ When executed, show us a menu type to choose what to install and also have a ALL
 
 Neverless, there are some programs that are ONLY STANDALONE INSTALLATIONS.
 
-
+![image](https://user-images.githubusercontent.com/64553347/134066028-f0dc9e1f-2811-4c85-b364-7677a917612c.png)
 
 ----------------------------------------------------------------
 
