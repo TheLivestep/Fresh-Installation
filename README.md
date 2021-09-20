@@ -6,7 +6,7 @@
 
 This is an automation tool written in Bash, for when is needed to do a fresh install of Kali.
 
-When executed, show us a menu type to choose what to install and also have a ALL option.
+When executed, show us a menu type to choose what to install and also have an ALL option.
 
 Neverless, there are some programs that are ONLY STANDALONE INSTALLATIONS.
 
