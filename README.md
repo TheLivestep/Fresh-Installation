@@ -61,4 +61,6 @@ sudo ./fresh_kali_installer.sh
 ```
 4. Choose your option.
 
+![image](https://user-images.githubusercontent.com/64553347/134443076-a3c1c706-1f1b-4cad-ae11-8fd7dfef3797.png)
+
 ------------------------------------------------------
