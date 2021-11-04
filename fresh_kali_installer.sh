@@ -403,7 +403,7 @@ function rlwrap_s(){
 # Install Evil-Winrm
 function evil-winrm_l(){
     echo -e "$greenminus Installing evil-winrm..."
-    gem install evil-winrm -y
+    gem install evil-winrm 
     echo -e "$greenplus Evil-winrm installed with success!"
 }
 
