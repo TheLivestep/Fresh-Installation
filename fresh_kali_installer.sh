@@ -478,7 +478,7 @@ function sublime_t(){
     apt install apt-transport-https -y
     echo -e "$greenminus Adding repo to sources list..."
     echo "deb https://download.sublimetext.com/ apt/stable/" > /etc/apt/sources.list.d/sublime-text.list
-    update
+    apt update
     apt -y install sublime-text
     echo -e "$greenplus Sublime installed with success!"
 }
